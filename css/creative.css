@@ -163,7 +163,7 @@ aside {
     }
     .navbar-default.affix .nav > li>a:hover,
     .navbar-default.affix .nav>li>a:focus:hover {
-        color: #5cb85c;
+        color: #CCC;
     }
 }
 
