@@ -1,6 +1,7 @@
 {
   "require" : {
-    "monolog/monolog": "~1.7"
+    "monolog/monolog": "~1.7",
+    "sendgrid/sendgrid": "~4.0"
   },
   "require-dev": {
     "heroku/heroku-buildpack-php": "*"
